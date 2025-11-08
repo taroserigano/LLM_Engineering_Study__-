@@ -1,4 +1,20 @@
+
+
+
+
 # ==============================
+
+
+# Train LoRA → Merge → Convert → Load in Ollama
+
+# Train LoRA → Merge → Convert (for appropriate data file format like gguf for ollama specific → Load in Ollama
+
+
+
+
+
+
+
 # train_lora_llama3.py
 # QLoRA training for Llama-3-8B-Instruct
 # Highly commented, simple English.
